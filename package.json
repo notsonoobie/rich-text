@@ -55,7 +55,7 @@
     "git-cz": "^3.0.1",
     "husky": "^2.2.0",
     "lerna": "^3.13.4",
-    "lint-staged": "^8.1.6",
+    "lint-staged": "^13.1.0",
     "prettier": "^1.17.0",
     "rollup": "^1.11.0",
     "rollup-plugin-commonjs": "^9.3.4",
